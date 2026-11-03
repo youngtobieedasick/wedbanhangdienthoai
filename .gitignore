@@ -1,0 +1,9 @@
+# File rác của hệ điều hành / trình soạn thảo
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Cấu hình riêng trên máy (nếu có)
+config.local.php
